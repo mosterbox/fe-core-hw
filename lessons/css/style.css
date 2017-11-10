@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+}
+
+.wrapper {
+    margin: 50px auto;
+    padding: 20px;
+    width: 600px;
+    background-color: #eee;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.static {
+    background-color: #fff;
+
+}
+
+.relative {
+    background-color: #0f0;
+
+}
+
+.absolute {
+    background-color: #00f;
+}
+
+.fixed {
+    background-color: #f00;
+}
